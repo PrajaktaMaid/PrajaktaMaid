@@ -20,3 +20,6 @@ Takes the staged snapshot and commits it to the project history. Combined with g
 
 git fetch
 Fetching downloads a branch from another repository, along with all of its associated commits and files. But, it doesn't try to integrate anything into your local repository. This gives you a chance to inspect changes before merging them with your project.
+
+git log
+Lets you explore the previous revisions of a project. It provides several formatting options for displaying committed snapshots.
